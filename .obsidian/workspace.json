@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Решенные задачи.md",
+                "file": "Summary Ranges.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Решенные задачи"
+              "title": "Summary Ranges"
             }
           }
         ]
@@ -165,9 +165,10 @@
   },
   "active": "d381025d8385088f",
   "lastOpenFiles": [
-    "Найти числа с четным количеством цифр.md",
-    "Максимальное количество последовательных единиц.md",
     "Решенные задачи.md",
+    "Найти числа с четным количеством цифр.md",
+    "Summary Ranges.md",
+    "Максимальное количество последовательных единиц.md",
     "Алгоритмы.md",
     "Шаблоны/Без названия.md",
     "Cashe/_fPHlQZZiNU.jpg",
@@ -192,7 +193,6 @@
     "Переменные  в GoLang.md",
     "Работа с датой и временем в Go.md",
     "Модули в Go.md",
-    "Обработка ошибок в Go.md",
     "Cashe/HbIbrF_0vTw.jpg",
     "Cashe/ViVM7bZBS0w.jpg",
     "Cashe/zQwuB1Ns_ss.jpg",
