@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eef82e7c144b66e1",
+        "id": "8ec87bebb9613044",
         "type": "tabs",
         "children": [
           {
-            "id": "33251d468ffd8e06",
+            "id": "e2897e07e3bdb810",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reverse Words in a String III.md",
+                "file": "Intersection of Two Linked Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Words in a String III"
+              "title": "Intersection of Two Linked Lists"
             }
           }
         ]
@@ -174,18 +174,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a78f874d80ed86c8",
+  "active": "e2897e07e3bdb810",
   "lastOpenFiles": [
     "Решенные задачи.md",
-    "Reverse Words in a String III.md",
-    "Reverse Words in a String.md",
+    "Intersection of Two Linked Lists.md",
+    "Linked List Cycle II.md",
+    "Summary Ranges.md",
+    "Linked List Cycle.md",
     "Алгоритмы.md",
+    "Map в  Go.md",
+    "Single Number.md",
+    "Найти числа с четным количеством цифр.md",
+    "Максимальное количество последовательных единиц.md",
+    "Longest Common Prefix.md",
+    "Minimum Size Subarray Sum.md",
+    "Reverse Words in a String III.md",
+    "Design Linked List.md",
+    "Reverse Words in a String.md",
     "Скользящее окно.md",
     "Конвертация строк в байты/rune и обратно (go).md",
-    "Minimum Size Subarray Sum.md",
     "Общие советы к решению задач.md",
     "Cashe/Pasted image 20250728125106.png",
-    "Longest Common Prefix.md",
     "Строки в Go.md",
     "Largest Number At Least Twice of Others.md",
     "Plus One.md",
@@ -194,19 +203,10 @@
     "Без названия.md",
     "Структуры данных.md",
     "Массивы.md",
-    "Find Pivot Index.md",
-    "Single Number.md",
-    "Контейнеры.md",
-    "Свойства xor и примеры его использования.md",
     "Cashe/Pasted image 20250716134828.png",
     "Cashe/Pasted image 20250716134808.png",
-    "Summary Ranges.md",
-    "Найти числа с четным количеством цифр.md",
-    "Максимальное количество последовательных единиц.md",
-    "Шаблоны/Без названия.md",
     "Cashe/_fPHlQZZiNU.jpg",
     "Шаблоны",
-    "Комбинаторные объекты (базовые объекты).md",
     "Cashe/HbIbrF_0vTw.jpg",
     "Cashe/ViVM7bZBS0w.jpg",
     "Cashe/zQwuB1Ns_ss.jpg",
