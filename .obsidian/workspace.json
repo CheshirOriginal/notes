@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fbcaf19551619cb2",
+        "id": "ea75e67ae648b8ab",
         "type": "tabs",
         "children": [
           {
-            "id": "2957753902443e96",
+            "id": "3ab9502addee101b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gRPC.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "gRPC"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -175,10 +171,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2957753902443e96",
+  "active": "3ab9502addee101b",
   "lastOpenFiles": [
-    "protoc.md",
     "gRPC.md",
+    "protoc.md",
     "синтаксис protobuf.md",
     "Технологии межпроцессорного взаимодействия.md",
     "IT.md",
