@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7cde70d5e8ebcdf7",
+        "id": "ac159c76caadb36a",
         "type": "tabs",
         "children": [
           {
-            "id": "a8cedd17d5ed5ba3",
+            "id": "da3ad3e2ee8c6278",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,16 +175,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a78f874d80ed86c8",
+  "active": "da3ad3e2ee8c6278",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Решенные задачи.md",
-    "Jewels and Stones.md",
     "Top K Frequent Elements.md",
+    "Решенные задачи.md",
     "Find All Anagrams in a String.md",
+    "Алгоритмы.md",
+    "conflict-files-obsidian-git.md",
+    "Jewels and Stones.md",
     "Search Insert Position.md",
     "Скользящее окно.md",
-    "Алгоритмы.md",
     "синтаксис protobuf.md",
     "Технологии межпроцессорного взаимодействия.md",
     "protoc.md",
