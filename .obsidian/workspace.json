@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8ec87bebb9613044",
+        "id": "7cde70d5e8ebcdf7",
         "type": "tabs",
         "children": [
           {
-            "id": "3ff7a22288392a67",
+            "id": "3e83188829629b64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Решенные задачи.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Решенные задачи"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -165,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -174,11 +171,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ff7a22288392a67",
+  "active": "a78f874d80ed86c8",
   "lastOpenFiles": [
+    "Решенные задачи.md",
     "Алгоритмы.md",
     "Скользящее окно.md",
-    "Решенные задачи.md",
     "4Sum II.md",
     "Longest Substring Without Repeating Characters.md",
     "Copy List with Random Pointer.md",
