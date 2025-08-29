@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e83188829629b64",
+            "id": "a8cedd17d5ed5ba3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Решенные задачи.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Решенные задачи"
             }
           }
         ]
@@ -157,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,13 +177,21 @@
   },
   "active": "a78f874d80ed86c8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Решенные задачи.md",
-    "Алгоритмы.md",
+    "Jewels and Stones.md",
+    "Top K Frequent Elements.md",
+    "Find All Anagrams in a String.md",
+    "Search Insert Position.md",
     "Скользящее окно.md",
+    "Алгоритмы.md",
+    "синтаксис protobuf.md",
+    "Технологии межпроцессорного взаимодействия.md",
+    "protoc.md",
+    "gRPC.md",
     "4Sum II.md",
     "Longest Substring Without Repeating Characters.md",
     "Copy List with Random Pointer.md",
-    "Jewels and Stones.md",
     "Общие советы к решению задач.md",
     "Minimum Size Subarray Sum.md",
     "Максимальное количество последовательных единиц.md",
@@ -195,14 +207,6 @@
     "Cashe/Pasted image 20250805180149.png",
     "Cashe/Pasted image 20250805180015.png",
     "Add Two Numbers.md",
-    "Odd Even Linked List.md",
-    "Remove Linked List Elements.md",
-    "Palindrome Linked List.md",
-    "Plus One.md",
-    "String to Integer (atoi).md",
-    "Delete Node in a Linked List.md",
-    "Valid Anagram.md",
-    "Valid Palindrome.md",
     "Cashe/Pasted image 20250728125106.png",
     "Cashe/Pasted image 20250716134828.png",
     "Cashe/Pasted image 20250716134808.png",
