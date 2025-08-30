@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Язык GoLang.md",
+                "file": "strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Язык GoLang"
-            }
-          },
-          {
-            "id": "3bb823ff6e600684",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Решенные задачи.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Решенные задачи"
+              "title": "strings"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,15 +175,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bb823ff6e600684",
+  "active": "c6df5bd1aaa8e789",
   "lastOpenFiles": [
+    "func CutSuffix.md",
+    "strings.md",
+    "func CutPrefix.md",
+    "func Cut.md",
+    "func Count.md",
+    "func Compare.md",
+    "func ContainsAny.md",
+    "func ContainsFunc.md",
+    "func ContainsRune.md",
+    "func Contains.md",
+    "func Clone.md",
+    "Стандартная библиотека Go.md",
+    "Язык GoLang.md",
+    "Решенные задачи.md",
     "Maximize Distance to Closest Person.md",
     "Cashe/Pasted image 20250830134114.png",
-    "Решенные задачи.md",
     "Find All Anagrams in a String.md",
     "Алгоритмы.md",
-    "Язык GoLang.md",
-    "Стандартная библиотека Go.md",
     "container.md",
     "heap.md",
     "container 2.md",
@@ -208,16 +204,6 @@
     "Jewels and Stones.md",
     "Search Insert Position.md",
     "Скользящее окно.md",
-    "синтаксис protobuf.md",
-    "Технологии межпроцессорного взаимодействия.md",
-    "protoc.md",
-    "gRPC.md",
-    "4Sum II.md",
-    "Longest Substring Without Repeating Characters.md",
-    "Copy List with Random Pointer.md",
-    "Общие советы к решению задач.md",
-    "Minimum Size Subarray Sum.md",
-    "Максимальное количество последовательных единиц.md",
     "Cashe/Pasted image 20250806131456.png",
     "Cashe/Pasted image 20250805185916.png",
     "Cashe/Pasted image 20250805180149.png",
