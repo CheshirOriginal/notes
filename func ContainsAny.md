@@ -2,7 +2,7 @@
 func ContainsAny(s, chars string) bool
 ```
 
-ContainsAny сообщает, находятся ли какие-либо кодовые точки Unicode в символах в пределах s.
+ContainsAny сообщает, находятся ли какие-либо кодовые точки Unicode в символах в пределах s. (Есть ли хотя бы один из символов строки `chars` в строке `s`)
 
 ```go
 package main
