@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ea75e67ae648b8ab",
+        "id": "00e29067aa1b7c1e",
         "type": "tabs",
         "children": [
           {
-            "id": "3ab9502addee101b",
+            "id": "211a8d8f64363e22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Решенные задачи.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Решенные задачи"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "скользя",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,10 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ab9502addee101b",
+  "active": "a78f874d80ed86c8",
   "lastOpenFiles": [
-    "Search Insert Position.md",
+    "Скользящее окно.md",
     "Решенные задачи.md",
+    "Search Insert Position.md",
     "Longest Common Prefix.md",
     "Find Pivot Index.md",
     "Largest Number At Least Twice of Others.md",
@@ -197,7 +194,6 @@
     "синтаксис protobuf.md",
     "Технологии межпроцессорного взаимодействия.md",
     "IT.md",
-    "Скользящее окно.md",
     "Longest Substring Without Repeating Characters.md",
     "Copy List with Random Pointer.md",
     "Общие советы к решению задач.md",
