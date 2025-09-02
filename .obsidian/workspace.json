@@ -11,10 +11,14 @@
             "id": "211a8d8f64363e22",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -158,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 723.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,6 +178,26 @@
   },
   "active": "a78f874d80ed86c8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Стандартная библиотека Go.md",
+    "strings.md",
+    "heap.md",
+    "func CutSuffix.md",
+    "func CutPrefix.md",
+    "func Cut.md",
+    "func Count.md",
+    "func ContainsRune.md",
+    "func ContainsFunc.md",
+    "func ContainsAny.md",
+    "func Contains.md",
+    "func Compare.md",
+    "func Clone.md",
+    "container.md",
+    "Top K Frequent Elements.md",
+    "Maximize Distance to Closest Person.md",
+    "Longest Repeating Character Replacement.md",
+    "Find All Anagrams in a String.md",
+    "Cashe/Pasted image 20250830134114.png",
     "Скользящее окно.md",
     "Решенные задачи.md",
     "Search Insert Position.md",
@@ -181,25 +205,6 @@
     "Find Pivot Index.md",
     "Largest Number At Least Twice of Others.md",
     "First Unique Character in a String.md",
-    "Valid Palindrome.md",
-    "Valid Anagram.md",
-    "Reverse Integer.md",
-    "Delete Node in a Linked List.md",
-    "Group Anagrams.md",
-    "Jewels and Stones.md",
-    "4Sum II.md",
-    "Алгоритмы.md",
-    "gRPC.md",
-    "protoc.md",
-    "синтаксис protobuf.md",
-    "Технологии межпроцессорного взаимодействия.md",
-    "IT.md",
-    "Longest Substring Without Repeating Characters.md",
-    "Copy List with Random Pointer.md",
-    "Общие советы к решению задач.md",
-    "Minimum Size Subarray Sum.md",
-    "Максимальное количество последовательных единиц.md",
-    "Contains Duplicate II.md",
     "Cashe/Pasted image 20250806131456.png",
     "Cashe/Pasted image 20250805185916.png",
     "Cashe/Pasted image 20250805180149.png",
@@ -210,7 +215,6 @@
     "Cashe/_fPHlQZZiNU.jpg",
     "Шаблоны",
     "Cashe/HbIbrF_0vTw.jpg",
-    "Cashe/ViVM7bZBS0w.jpg",
     "Конвертация строк в байты",
     "Cashe"
   ]
