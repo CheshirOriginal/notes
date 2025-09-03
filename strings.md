@@ -30,6 +30,24 @@
 [[func Map]]
 [[func Replace]]
 [[func ReplaceAll]]
+[[func ToLower]]
+[[func ToLowerSpecial]]
+[[func ToUpper]]
+[[func ToUpperSpecial]]
+[[func ToTitle]]
+[[func ToTitleSpecial]]
+[[func ToValidUTF8]]
+[[func Trim]]
+[[func TrimFunc]]
+[[func TrimLeft]]
+[[func TrimLeftFunc]]
+[[func TrimRight]]
+[[func TrimRightFunc]]
+[[func TrimSpace]]
+[[func TrimPrefix]]
+[[func TrimSuffix]]
+
+
 
 [[func Count]]
 
@@ -43,6 +61,8 @@
 [[func FieldsSeq]]
 [[func Lines]]
 [[func Split]]
+[[func SplitN]]
+[[func SplitSeq]]
 [[func SplitAfter]]
 [[func SplitAfterN]]
 [[func SplitAfterSeq]]
