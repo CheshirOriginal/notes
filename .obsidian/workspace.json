@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "strings.md",
+                "file": "Longest Subarray of 1's After Deleting One Element.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "strings"
+              "title": "Longest Subarray of 1's After Deleting One Element"
             }
           }
         ]
@@ -180,8 +180,12 @@
   },
   "active": "19f7d4799b647dfd",
   "lastOpenFiles": [
-    "func Fields.md",
+    "Решенные задачи.md",
+    "Longest Subarray of 1's After Deleting One Element.md",
+    "Longest Repeating Character Replacement.md",
+    "Алгоритмы.md",
     "strings.md",
+    "func Fields.md",
     "func TrimSuffix.md",
     "func TrimPrefix.md",
     "func TrimSpace.md",
@@ -202,10 +206,6 @@
     "func SplitSeq.md",
     "func SplitN.md",
     "func Cut.md",
-    "func Split.md",
-    "func SplitAfterSeq.md",
-    "func SplitAfterN.md",
-    "func SplitAfter.md",
     "Cashe/Pasted image 20250830134114.png",
     "Cashe/Pasted image 20250806131456.png",
     "Cashe/Pasted image 20250805185916.png",
