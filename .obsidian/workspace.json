@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Longest Subarray of 1's After Deleting One Element.md",
+                "file": "Решенные задачи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longest Subarray of 1's After Deleting One Element"
+              "title": "Решенные задачи"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "19f7d4799b647dfd",
   "lastOpenFiles": [
-    "Решенные задачи.md",
     "Longest Subarray of 1's After Deleting One Element.md",
+    "Решенные задачи.md",
     "Longest Repeating Character Replacement.md",
     "Алгоритмы.md",
     "strings.md",
