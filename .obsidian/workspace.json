@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Line Reflection.md",
+                "file": "Permutation in String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Line Reflection"
+              "title": "Permutation in String"
             }
           }
         ]
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 723.5
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +181,13 @@
   "active": "19f7d4799b647dfd",
   "lastOpenFiles": [
     "Решенные задачи.md",
-    "Find K Closest Elements.md",
+    "Subarray Sum Equals K.md",
+    "Permutation in String.md",
     "Line Reflection.md",
+    "Алгоритмы.md",
+    "Find K Closest Elements.md",
     "Longest Subarray of 1's After Deleting One Element.md",
     "Longest Repeating Character Replacement.md",
-    "Алгоритмы.md",
     "strings.md",
     "func Fields.md",
     "func TrimSuffix.md",
@@ -204,8 +206,6 @@
     "func ToUpper.md",
     "func ToLowerSpecial.md",
     "func ToLower.md",
-    "func ReplaceAll.md",
-    "func SplitSeq.md",
     "Cashe/Pasted image 20250830134114.png",
     "Cashe/Pasted image 20250806131456.png",
     "Cashe/Pasted image 20250805185916.png",
