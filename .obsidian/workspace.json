@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String Compression.md",
+                "file": "Язык C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "String Compression"
+              "title": "Язык C++"
             }
           }
         ]
@@ -180,8 +180,13 @@
   },
   "active": "93249586522c19b8",
   "lastOpenFiles": [
-    "Решенные задачи.md",
+    "шаблоны c++.md",
+    "Язык C++.md",
+    "функции c++.md",
+    "ссылки, казатели, константность c++.md",
+    "IT.md",
     "String Compression.md",
+    "Решенные задачи.md",
     "Алгоритмы.md",
     "Анализ алгоритмов.md",
     "Interval List Intersections.md",
@@ -202,11 +207,6 @@
     "Структуры в Go.md",
     "Переменные  в GoLang.md",
     "Стандартная библиотека Go.md",
-    "Valid Palindrome.md",
-    "Язык C++.md",
-    "составные типы данных c++.md",
-    "вектор c++.md",
-    "итерация по индексам с++.md",
     "Cashe/Pasted image 20250830134114.png",
     "Cashe/Pasted image 20250806131456.png",
     "Cashe/Pasted image 20250805185916.png",
