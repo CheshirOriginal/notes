@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "213f1a1d4804f6ff",
+        "id": "795ad6ea8715699c",
         "type": "tabs",
         "children": [
           {
-            "id": "a2ad83b39f304c69",
+            "id": "93249586522c19b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,15 +178,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2ad83b39f304c69",
+  "active": "93249586522c19b8",
   "lastOpenFiles": [
     "Решенные задачи.md",
     "String Compression.md",
+    "Алгоритмы.md",
+    "Анализ алгоритмов.md",
     "Interval List Intersections.md",
     "Maximize Distance to Closest Person.md",
     "Cashe/Pasted image 20250918221446.png",
     "Permutation in String.md",
-    "Алгоритмы.md",
     "Язык GoLang.md",
     "Рекомендации по написанию кода на Go.md",
     "Практика работы с интерфейсами go.md",
@@ -206,7 +207,6 @@
     "составные типы данных c++.md",
     "вектор c++.md",
     "итерация по индексам с++.md",
-    "полезные ссылки c++.md",
     "Cashe/Pasted image 20250830134114.png",
     "Cashe/Pasted image 20250806131456.png",
     "Cashe/Pasted image 20250805185916.png",
