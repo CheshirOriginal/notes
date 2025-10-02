@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "475440346dc7ef65",
+        "id": "69b8fb7259fe5ad4",
         "type": "tabs",
         "children": [
           {
-            "id": "84a9542e134fed9f",
+            "id": "c30c158bb1181768",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Бинарный поиск.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Бинарный поиск"
             }
           }
         ]
@@ -174,12 +178,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84a9542e134fed9f",
+  "active": "c30c158bb1181768",
   "lastOpenFiles": [
+    "Find Minimum in Rotated Sorted Array.md",
     "Решенные задачи.md",
+    "Find Peak Element.md",
+    "Бинарный поиск.md",
+    "Search in Rotated Sorted Array.md",
+    "First Bad Version.md",
+    "Алгоритмы.md",
+    "Базовые техники решения задач.md",
+    "Скользящее окно.md",
+    "conflict-files-obsidian-git.md",
+    "Valid Parentheses.md",
+    "Number of Students Doing Homework at a Given Time.md",
+    "Merge Intervals.md",
     "Permutation in String.md",
     "Longest Substring Without Repeating Characters.md",
-    "Алгоритмы.md",
     "шаблоны c++.md",
     "функции c++.md",
     "ссылки, казатели, константность c++.md",
@@ -192,17 +207,6 @@
     "Interval List Intersections.md",
     "Cashe/Pasted image 20250918221446.png",
     "Subarray Sum Equals K.md",
-    "Line Reflection.md",
-    "Find K Closest Elements.md",
-    "Longest Subarray of 1's After Deleting One Element.md",
-    "Longest Repeating Character Replacement.md",
-    "strings.md",
-    "func Fields.md",
-    "func TrimSuffix.md",
-    "func TrimPrefix.md",
-    "func TrimSpace.md",
-    "func TrimRightFunc.md",
-    "func TrimRight.md",
     "Cashe/Pasted image 20250830134114.png",
     "Cashe/Pasted image 20250806131456.png",
     "Cashe/Pasted image 20250805185916.png",
