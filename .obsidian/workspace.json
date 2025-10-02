@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "69b8fb7259fe5ad4",
+        "id": "67ef3db973e71017",
         "type": "tabs",
         "children": [
           {
-            "id": "c30c158bb1181768",
+            "id": "05a9f6aedcc3f205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бинарный поиск.md",
+                "file": "Swap Nodes in Pairs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Бинарный поиск"
+              "title": "Swap Nodes in Pairs"
             }
           }
         ]
@@ -178,15 +178,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c30c158bb1181768",
+  "active": "05a9f6aedcc3f205",
   "lastOpenFiles": [
-    "Find Minimum in Rotated Sorted Array.md",
     "Решенные задачи.md",
-    "Find Peak Element.md",
+    "Swap Nodes in Pairs.md",
+    "Find Minimum in Rotated Sorted Array.md",
+    "Алгоритмы.md",
     "Бинарный поиск.md",
+    "Find Peak Element.md",
     "Search in Rotated Sorted Array.md",
     "First Bad Version.md",
-    "Алгоритмы.md",
     "Базовые техники решения задач.md",
     "Скользящее окно.md",
     "conflict-files-obsidian-git.md",
@@ -206,7 +207,6 @@
     "String Compression.md",
     "Interval List Intersections.md",
     "Cashe/Pasted image 20250918221446.png",
-    "Subarray Sum Equals K.md",
     "Cashe/Pasted image 20250830134114.png",
     "Cashe/Pasted image 20250806131456.png",
     "Cashe/Pasted image 20250805185916.png",
