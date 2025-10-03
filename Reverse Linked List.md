@@ -32,3 +32,25 @@ func reverseList(head *ListNode) *ListNode {
     return prev
 }
 ```
+
+Рекурсивный вариант
+
+```go
+func reverseList(head *ListNode) *ListNode {
+	// base case (случай, когда можно вычислить ответ напрямую)
+	// и проверка на пустой список по совместительству
+    if head == nil || head.Next == nil {
+        return head
+    }
+    // запускаем рекурсию
+    newHead := reverseList(head.Next)
+    // разворачиваем список: устанавливаем свзязь(Next) 
+    // следующего за текущим(head) элемента на текущий элемент
+    head.Next.Next = head
+    // по сути это надо только для первого (после разворота последнее)
+    // элемента, чтобы разорвать его предыдущую связь
+    head.Next = nil
+    // возвращаем по цепочке указатель на новый начальный элемент
+    return newHead
+}
+```
