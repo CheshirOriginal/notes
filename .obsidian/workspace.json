@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы.md",
+                "file": "Решенные задачи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Алгоритмы"
+              "title": "Решенные задачи"
             }
           }
         ]
@@ -180,6 +180,11 @@
   },
   "active": "1e29f22af5cc723c",
   "lastOpenFiles": [
+    "Meeting Rooms II.md",
+    "Решенные задачи.md",
+    "Max Consecutive Ones II.md",
+    "Same Tree.md",
+    "Алгоритмы.md",
     "адаптеры и представления c++.md",
     "Язык C++.md",
     "Cashe/Pasted image 20251014202454.png",
@@ -189,8 +194,6 @@
     "алгоритмы стандартной библиотеки c++.md",
     "Cashe/Pasted image 20251014201451.png",
     "IT.md",
-    "Решенные задачи.md",
-    "Same Tree.md",
     "Cashe/Pasted image 20251014150257.png",
     "Cashe/Pasted image 20251014150233.png",
     "Range Sum of BST.md",
@@ -202,7 +205,6 @@
     "Cashe/Pasted image 20251010171912.png",
     "Cashe/Pasted image 20251010171855.png",
     "Climbing Stairs.md",
-    "Алгоритмы.md",
     "Базовые техники решения задач.md",
     "Бинарное дерево.md",
     "Рекурсивное решение задач с деревьями.md",
@@ -214,7 +216,6 @@
     "ассоциативные контейнеры c++.md",
     "итераторы ассоциативных контейнеров c++.md",
     "мультиконтейнеры c++.md",
-    "контейнер set и unordered_set c++.md",
     "Шаблоны",
     "Конвертация строк в байты",
     "Cashe"
