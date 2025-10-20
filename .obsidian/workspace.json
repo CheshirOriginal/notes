@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dd78c47c6150e0d6",
+        "id": "94d7725532bb81ee",
         "type": "tabs",
         "children": [
           {
-            "id": "2e963cb319192eb1",
+            "id": "ac46e71d6d6aaa5c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -174,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e963cb319192eb1",
+  "active": "a78f874d80ed86c8",
   "lastOpenFiles": [
     "Алгоритмы.md",
     "Базовые техники решения задач.md",
