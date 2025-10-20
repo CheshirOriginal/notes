@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "94d7725532bb81ee",
+        "id": "54e82907b9479f59",
         "type": "tabs",
         "children": [
           {
-            "id": "ac46e71d6d6aaa5c",
+            "id": "c9fa95aedb2a88fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Design Hit Counter.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Design Hit Counter"
             }
           }
         ]
@@ -174,9 +178,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e963cb319192eb1",
+  "active": "c9fa95aedb2a88fd",
   "lastOpenFiles": [
+    "Решенные задачи.md",
+    "Design Hit Counter.md",
+    "Meeting Rooms II.md",
     "Алгоритмы.md",
+    "conflict-files-obsidian-git.md",
+    "алгоритмы стандартной библиотеки c++.md",
+    "адаптеры и представления c++.md",
+    "Рекурсивное решение задач с деревьями.md",
+    "Validate Binary Search Tree.md",
+    "Symmetric Tree.md",
+    "Same Tree.md",
+    "Range Sum of BST.md",
+    "Path Sum.md",
+    "One Edit Distance.md",
+    "Max Consecutive Ones II.md",
+    "Cashe/Pasted image 20251014202454.png",
+    "Cashe/Pasted image 20251014202220.png",
+    "Cashe/Pasted image 20251014202118.png",
+    "Cashe/Pasted image 20251014201939.png",
+    "Cashe/Pasted image 20251014201451.png",
+    "Cashe/Pasted image 20251014150257.png",
+    "Cashe/Pasted image 20251014150233.png",
+    "Cashe/Pasted image 20251014132519.png",
+    "Cashe/Pasted image 20251010171912.png",
+    "Cashe/Pasted image 20251010171855.png",
     "Базовые техники решения задач.md",
     "Общие советы к решению задач.md",
     "Структуры данных.md",
@@ -188,30 +216,6 @@
     "обратный обход дерева.md",
     "симметричный обход дерева.md",
     "прямой обход дерева.md",
-    "Решенные задачи.md",
-    "последовательные контейнеры c++.md",
-    "мультиконтейнеры c++.md",
-    "контейнер unordered_map c++.md",
-    "контейнер set и unordered_set c++.md",
-    "контейнер map c++.md",
-    "контейнер list c++.md",
-    "контейнер forward_list c++.md",
-    "контейнер deque c++.md",
-    "контейнер array c++.md",
-    "итераторы списка c++.md",
-    "итераторы ассоциативных контейнеров c++.md",
-    "инвалидация итераторов и ссылок c++.md",
-    "ассоциативные контейнеры c++.md",
-    "Cashe/Pasted image 20251007211355.png",
-    "Cashe/Pasted image 20251007210059.png",
-    "Cashe/Pasted image 20251007201638.png",
-    "Cashe/Pasted image 20251006164032.png",
-    "Cashe/Pasted image 20251006152649.png",
-    "Cashe/Pasted image 20250918221446.png",
-    "Cashe/Pasted image 20250830134114.png",
-    "Cashe/Pasted image 20250806131456.png",
-    "Cashe/Pasted image 20250805185916.png",
-    "Cashe/Pasted image 20250805180149.png",
     "Шаблоны",
     "Конвертация строк в байты",
     "Cashe"
