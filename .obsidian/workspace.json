@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "83c2aefce508cdfa",
+        "id": "ed3a7de283065a03",
         "type": "tabs",
         "children": [
           {
-            "id": "a31f15cc6be54ab0",
+            "id": "a1e69101c56f4971",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -174,8 +174,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a31f15cc6be54ab0",
+  "active": "a78f874d80ed86c8",
   "lastOpenFiles": [
+    "Язык C++.md",
+    "жизненный цикл объекта c++.md",
+    "Cashe/Pasted image 20251025184801.png",
+    "Cashe/Pasted image 20251025184729.png",
+    "Cashe/Pasted image 20251025184459.png",
+    "Cashe/Pasted image 20251025184239.png",
+    "Cashe/Pasted image 20251025184154.png",
+    "шаблонные классы c++.md",
+    "Cashe/Pasted image 20251025182936.png",
+    "классы c++.md",
+    "вектор c++.md",
     "Find Pivot Index.md",
     "Решенные задачи.md",
     "Single Number.md",
@@ -188,9 +199,7 @@
     "последовательные контейнеры c++.md",
     "контейнер forward_list c++.md",
     "контейнер deque c++.md",
-    "вектор c++.md",
     "контейнер array c++.md",
-    "Язык C++.md",
     "шаблоны c++.md",
     "Meeting Rooms II.md",
     "Max Consecutive Ones II.md",
@@ -201,17 +210,7 @@
     "Cashe/Pasted image 20251014202118.png",
     "Cashe/Pasted image 20251014201939.png",
     "алгоритмы стандартной библиотеки c++.md",
-    "Cashe/Pasted image 20251014201451.png",
     "IT.md",
-    "Cashe/Pasted image 20251014150257.png",
-    "Cashe/Pasted image 20251014150233.png",
-    "Range Sum of BST.md",
-    "Cashe/Pasted image 20251014132519.png",
-    "One Edit Distance.md",
-    "Validate Binary Search Tree.md",
-    "Path Sum.md",
-    "Cashe/Pasted image 20251010171912.png",
-    "Cashe/Pasted image 20251010171855.png",
     "Шаблоны",
     "Конвертация строк в байты",
     "Cashe"
