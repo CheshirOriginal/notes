@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ed3a7de283065a03",
+        "id": "e2d07ff151c9c7ca",
         "type": "tabs",
         "children": [
           {
-            "id": "a1e69101c56f4971",
+            "id": "372037a002becbe9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Язык C++.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Язык C++"
             }
           }
         ]
@@ -174,9 +178,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a78f874d80ed86c8",
+  "active": "372037a002becbe9",
   "lastOpenFiles": [
+    "идиома RAII и умные указатели c++.md",
+    "Cashe/Pasted image 20251026171938.png",
     "Язык C++.md",
+    "обработка исключений c++.md",
+    "наследование и полиморфизм c++.md",
+    "Cashe/Pasted image 20251026145916.png",
+    "Cashe/Pasted image 20251026144605.png",
     "жизненный цикл объекта c++.md",
     "Cashe/Pasted image 20251025184801.png",
     "Cashe/Pasted image 20251025184729.png",
@@ -204,13 +214,7 @@
     "Meeting Rooms II.md",
     "Max Consecutive Ones II.md",
     "Same Tree.md",
-    "адаптеры и представления c++.md",
     "Cashe/Pasted image 20251014202454.png",
-    "Cashe/Pasted image 20251014202220.png",
-    "Cashe/Pasted image 20251014202118.png",
-    "Cashe/Pasted image 20251014201939.png",
-    "алгоритмы стандартной библиотеки c++.md",
-    "IT.md",
     "Шаблоны",
     "Конвертация строк в байты",
     "Cashe"
